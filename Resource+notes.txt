@@ -1,0 +1,12 @@
+Creating a more simple website to practice things
+
+*Practice 
+-sidebars 
+-larger footer 
+-contact form propertly made 
+-google map address
+-blog post 
+-photos clickable 
+
+Resource 
+https://freewebsitetemplates.com/preview/frozenyogurtshop/index.html
